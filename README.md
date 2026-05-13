@@ -2,17 +2,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=Backend+Developer+%7C+Systems+Engineering+Student" alt="Typing SVG" /></a>
 
-**About Me!**
+<div align="center">
 
-- 👨🏽‍💻 Systems Engineering Student from San Rafael, Mendoza, Argentina
-- 🔧 Backend developer working with **Node.js**, **TypeScript**, **Go** and **Python**
-- 🏗️ Building production-ready REST APIs with **microservices** and **API Gateway** patterns
-- 📐 Working with **OpenSpec** methodology — specs as living contracts before code
-- 🛡️ Applying **SSD** (Specification-Driven Development) and **RBAC** access control design
-- 🐳 Containerizing and orchestrating services with **Docker** & **Docker Compose**
-- 🧪 Writing tested code with **Jest**, **Supertest** and **pytest**
-- 💬 Reach me at [eliriper123@gmail.com](mailto:eliriper123@gmail.com)
-- 🎮 Outside tech: video games, music & car mechanics
+### About Me
+
+👨🏽‍💻 Systems Engineering Student · San Rafael, Mendoza, Argentina  
+🚀 Building production-ready backends with clean architecture and solid API contracts  
+🎮 Outside tech: video games, music & car mechanics  
+💬 [eliriper123@gmail.com](mailto:eliriper123@gmail.com)
+
+</div>
 
 ---
 
