@@ -64,7 +64,6 @@
 <h3>Architecture, Methodologies & Best Practices</h3>
 
 <img src="https://img.shields.io/badge/OpenSpec-Spec%20as%20Contract-851c73?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SSD-Spec%20Driven%20Dev-851c73?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/API%20Gateway-Pattern-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REST%20API-Design-blue?style=for-the-badge" />

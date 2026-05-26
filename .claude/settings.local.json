@@ -4,7 +4,12 @@
       "Bash(gh api *)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:api.github.com)",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git -C \"D:\\\\eliezer-afk\" status)",
+      "Bash(git -C \"D:\\\\eliezer-afk\" diff)",
+      "Bash(git -C \"D:\\\\eliezer-afk\" add README.md)",
+      "Bash(git -C 'D:\\\\eliezer-afk' commit -m ' *)",
+      "Bash(git *)"
     ]
   }
 }
