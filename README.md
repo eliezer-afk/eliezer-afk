@@ -100,9 +100,7 @@
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=eliezer-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=851c73&fire=32A8BB&currStreakLabel=851c73" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=851c73&langs_count=6" />
+<img src="https://streak-stats.demolab.com/?user=eliezer-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=851c73&fire=32A8BB&currStreakLabel=851c73" />
 
 </div>
 
