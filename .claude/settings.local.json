@@ -9,7 +9,8 @@
       "Bash(git -C \"D:\\\\eliezer-afk\" diff)",
       "Bash(git -C \"D:\\\\eliezer-afk\" add README.md)",
       "Bash(git -C 'D:\\\\eliezer-afk' commit -m ' *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "PowerShell($urls = @\\('https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&lines=test', 'https://raw.githubusercontent.com/eliezer-afk/eliezer-afk/output/github-contribution-grid-snake-dark.svg', 'https://raw.githubusercontent.com/eliezer-afk/eliezer-afk/output/github-contribution-grid-snake.svg', 'https://streak-stats.demolab.com/?user=eliezer-afk&theme=tokyonight'\\); foreach \\($u in $urls\\) { try { $r = Invoke-WebRequest -Uri $u -Method Head -UseBasicParsing -TimeoutSec 20; Write-Output \"$\\($r.StatusCode\\) $u\" } catch { Write-Output \"FAIL $u : $\\($_.Exception.Message\\)\" } })"
     ]
   }
 }

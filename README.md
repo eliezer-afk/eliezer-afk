@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/eliriper123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliriper123@gmail.com)
+[![Email](https://img.shields.io/badge/eliriper123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivero.eliezer143@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=eliezer-afk&style=for-the-badge&color=BF91F3&label=Profile+Views)](https://github.com/eliezer-afk)
 
 </div>
